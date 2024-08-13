@@ -1,6 +1,6 @@
 # 📌 Project Background  
 This project aims to develop an automated system for classifying fruits as fresh or rotten using deep learning techniques. With over 4000 images in the dataset, the system will leverage convolutional neural networks to analyze visual features and determine fruit freshness. This approach addresses the challenge of efficient quality control in the food industry, potentially reducing food waste and improving consumer satisfaction. By automating the classification process, the project seeks to overcome the limitations of time-consuming and subjective manual inspections, offering a more consistent and scalable solution for fruit quality assessment.
-[dataset]([https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification/data)).
+[dataset](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification/data).
 
 <i>In collaboration with Vincent Lee, Wenchi Tseng, Wei Chen, I-Ching Lu, and Zihang Sun.</i>
 
